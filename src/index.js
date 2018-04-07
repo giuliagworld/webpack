@@ -4,6 +4,6 @@ import ReactDOM from 'react-dom';
 import './scss/styles.scss';
 
 ReactDOM.render(
-  <h1>Ciao, world!</h1>,
-  document.getElementById('root')
+  <h1>Hello, world!</h1>,
+  document.getElementById('hello')
 );
